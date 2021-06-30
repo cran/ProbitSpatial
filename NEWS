@@ -1,0 +1,8 @@
+NEWS/ChangeLog for ProbitSpatial 1.1
+-----------------------------
+
+Ensured consistency with newer versions of dependencies (Matrix) 
+summary function was not showingthe results correctly in previous release. Fixed in the new version.
+Minor bug fix
+
+1.0 2016-03-08	first release
